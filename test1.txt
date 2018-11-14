@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9604-E019
+
+ Directory of C:\Users\SoM\Desktop\Myproject
+
+14-Nov-18  11:49 AM    <DIR>          .
+14-Nov-18  11:49 AM    <DIR>          ..
+14-Nov-18  11:49 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   9,244,409,856 bytes free
